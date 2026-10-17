@@ -21,7 +21,7 @@
 
 ## 📖 **Overview**
 
-This project converts **11,914 drug SMILES strings** into molecular graphs with [RDKit](https://www.rdkit.org/). Atoms are nodes and bonds are edges.
+This project converts **drug SMILES strings** into molecular graphs with [RDKit](https://www.rdkit.org/). Atoms are nodes and bonds are edges.
 
 Three graph autoencoders learn a fixed length embedding for each drug:
 
