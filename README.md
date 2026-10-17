@@ -2,7 +2,7 @@
 
 <b>Unsupervised graph neural network embeddings of drug molecules from SMILES</b>
 
-<br><br>
+<br>
 
 <a href="https://pragyakesar.github.io/GNN-DrugEmbeddings/"><img src="https://img.shields.io/badge/View-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="View Notebook"></a>
 
