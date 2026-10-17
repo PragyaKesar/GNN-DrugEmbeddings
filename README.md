@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🧬 GNN-DrugEmbeddings</h1>
+<h1>GNN-DrugEmbeddings</h1>
 
 <b>Unsupervised graph neural network embeddings of drug molecules from SMILES</b>
 
